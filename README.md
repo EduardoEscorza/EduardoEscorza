@@ -10,7 +10,7 @@
 
 ### 🇪🇸 Sobre mí
 
-Desarrollador Fullstack con experiencia construyendo sistemas de extremo a extremo, desde la base de datos hasta la interfaz. He trabajado en proyectos para clientes de fintech, turismo, automotriz y hospitalidad. Me gusta aprender con ejemplos completos y concretos que después puedo replicar y adaptar por mi cuenta.
+Desarrollador Fullstack con experiencia construyendo sistemas de extremo a extremo, desde la base de datos hasta la interfaz. He trabajado en proyectos para clientes de fintech, turismo, automotriz y hoteleria. Me gusta aprender con ejemplos completos y concretos que después puedo replicar y adaptar por mi cuenta.
 
 ### 🇬🇧 About me
 
