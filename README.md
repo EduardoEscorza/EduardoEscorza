@@ -63,6 +63,40 @@ I enjoy learning through complete and practical examples that I can later replic
 
 ---
 
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,cs,cpp,html,css" />
+</p>
+
+### 🚀 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,bootstrap" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode,postman" />
+</p>
+
+---
+
 # 🚀 Featured Project
 
 ## 🎓 SIGETU
@@ -113,40 +147,6 @@ Database
 ### 🛠️ Backend Stack
 
 `Node.js` · `TypeScript` · `Express.js` · `MySQL` · `JWT` · `bcrypt`
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,cs,cpp,html,css" />
-</p>
-
-### 🚀 Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,bootstrap" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode,postman" />
-</p>
 
 ---
 
