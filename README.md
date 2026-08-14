@@ -25,26 +25,41 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🇪🇸 Sobre mí
 
-I'm a **Fullstack Developer** focused on building complete web applications, from database design and backend APIs to frontend interfaces.
+Soy **Desarrollador Fullstack** enfocado en construir aplicaciones web completas, desde el diseño de bases de datos y desarrollo de APIs hasta la creación de interfaces frontend.
 
-I have worked on projects related to:
+He trabajado en proyectos para clientes y organizaciones de diferentes sectores:
 
 * 💳 Fintech
-* 🎢 Tourism & Entertainment
+* 🎢 Turismo y entretenimiento
+* 🚗 Automotriz
+* 🏨 Hotelería
+* 🎓 Educación
+* 🛒 E-commerce
+
+Me interesa especialmente el **desarrollo backend, las bases de datos, las APIs REST y la construcción de sistemas modulares y mantenibles**.
+
+Me gusta aprender mediante ejemplos completos y concretos que posteriormente pueda replicar, adaptar y mejorar por mi cuenta.
+
+---
+
+## 🇬🇧 About Me
+
+I'm a **Fullstack Developer** focused on building complete web applications, from database design and API development to frontend interfaces.
+
+I've worked on projects for clients and organizations across different industries:
+
+* 💳 Fintech
+* 🎢 Tourism and entertainment
 * 🚗 Automotive
 * 🏨 Hospitality
 * 🎓 Education
 * 🛒 E-commerce
 
-I enjoy building systems that are **structured, maintainable and practical**, with particular interest in backend development, databases and API architecture.
+I'm particularly interested in **backend development, databases, REST APIs, and building modular and maintainable systems**.
 
-### 🇪🇸 Sobre mí
-
-Desarrollador **Fullstack** enfocado en construir aplicaciones web completas, desde el diseño de bases de datos y APIs hasta las interfaces frontend.
-
-Me interesa especialmente el desarrollo backend, el diseño de bases de datos y la construcción de sistemas modulares y mantenibles.
+I enjoy learning through complete and practical examples that I can later replicate, adapt, and improve independently.
 
 ---
 
@@ -54,9 +69,11 @@ Me interesa especialmente el desarrollo backend, el diseño de bases de datos y 
 
 **Sistema Integral de Gestión Estudiantil y Trámites Universitarios**
 
-<a href="https://github.com/EduardoEscorza/sist_sigetu">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+<p>
+  <a href="https://github.com/EduardoEscorza/sist_sigetu">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 SIGETU is a university management system developed independently, covering backend architecture, authentication, database design and application logic.
 
@@ -72,7 +89,7 @@ REST API
 Controllers
    │
    ▼
-Services / Business Logic
+Business Logic
    │
    ▼
 MySQL Stored Procedures
@@ -125,7 +142,7 @@ Database
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### ☁️ Tools & Infrastructure
+### 🔧 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode,postman" />
@@ -141,23 +158,17 @@ Sales management system developed for internal business operations.
 
 **Technologies:** PHP · JavaScript · MySQL
 
----
-
 ### 🎢 Control de Accesos — Xcaret
 
 Access control system for theme park operations.
 
 **Focus:** Access management · Business logic · Database
 
----
-
 ### 🏨 Cross-Charges — RLH Properties
 
 System for managing charges between different properties.
 
 **Focus:** Backend · Database · Business processes
-
----
 
 ### 🛒 AWE
 
@@ -170,12 +181,23 @@ E-commerce platform focused on online sales and management.
 # 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoEscorza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEscorza&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EduardoEscorza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEscorza&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EduardoEscorza&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=EduardoEscorza&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -183,15 +205,16 @@ E-commerce platform focused on online sales and management.
 # 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EduardoEscorza/EduardoEscorza/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/EduardoEscorza/EduardoEscorza/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
 
-# 📈 Profile
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EduardoEscorza&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=EduardoEscorza&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
