@@ -182,12 +182,12 @@ E-commerce platform focused on online sales and management.
 
 <p align="center">
   <img
-    src="https://TU-URL-DE-VERCEL.vercel.app/api?username=EduardoEscorza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=EduardoEscorza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="170"
     alt="GitHub Statistics"
   />
   <img
-    src="https://TU-URL-DE-VERCEL.vercel.app/api/top-langs/?username=EduardoEscorza&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduardoEscorza&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
     alt="Most Used Languages"
   />
