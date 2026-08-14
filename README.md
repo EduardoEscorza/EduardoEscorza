@@ -68,7 +68,7 @@ I enjoy learning through complete and practical examples that I can later replic
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,cs,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,html,css" />
 </p>
 
 ### 🚀 Backend
