@@ -1,68 +1,199 @@
-<h1 align="center">¡Hola! Soy Eduardo Escorza 👋</h1>
-<h3 align="center">Fullstack Developer | Node.js · React · Vue · PHP · MySQL</h3>
+<h1 align="center">👨‍💻 Eduardo Escorza</h1>
+
+<h3 align="center">
+  Fullstack Developer · Backend · APIs · Databases
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/eduardo-escorza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eduardoescorza6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Node.js+%7C+TypeScript+%7C+MySQL;REST+APIs+%7C+JWT+%7C+Stored+Procedures;Building+scalable+and+maintainable+systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/EduardoEscorza">
+    <img src="https://img.shields.io/github/followers/EduardoEscorza?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/EduardoEscorza?tab=repositories">
+    <img src="https://img.shields.io/github/stars/EduardoEscorza?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/eduardo-escorza">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eduardoescorza6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
+
+## 🧑‍💻 About Me
+
+I'm a **Fullstack Developer** focused on building complete web applications, from database design and backend APIs to frontend interfaces.
+
+I have worked on projects related to:
+
+* 💳 Fintech
+* 🎢 Tourism & Entertainment
+* 🚗 Automotive
+* 🏨 Hospitality
+* 🎓 Education
+* 🛒 E-commerce
+
+I enjoy building systems that are **structured, maintainable and practical**, with particular interest in backend development, databases and API architecture.
 
 ### 🇪🇸 Sobre mí
 
-Desarrollador Fullstack con experiencia construyendo sistemas de extremo a extremo, desde la base de datos hasta la interfaz. He trabajado en proyectos para clientes de fintech, turismo, automotriz y hoteleria. Me gusta aprender con ejemplos completos y concretos que después puedo replicar y adaptar por mi cuenta.
+Desarrollador **Fullstack** enfocado en construir aplicaciones web completas, desde el diseño de bases de datos y APIs hasta las interfaces frontend.
 
-### 🇬🇧 About me
-
-Fullstack Developer with experience building systems end-to-end, from the database to the UI. I've worked on client-facing projects in fintech, tourism, automotive, and hospitality. I like learning through concrete, complete examples I can replicate and adapt on my own.
+Me interesa especialmente el desarrollo backend, el diseño de bases de datos y la construcción de sistemas modulares y mantenibles.
 
 ---
 
-### 🚀 Proyecto destacado / Featured project
+# 🚀 Featured Project
 
-**[SIGETU](https://github.com/EduardoEscorza/sist_sigetu)** — Sistema Integral de Gestión Estudiantil y Trámites Universitarios
+## 🎓 SIGETU
 
-- 🇪🇸 Sistema completo de gestión escolar construido en solitario. Backend en **Node.js + TypeScript + Express**, con **MySQL** y **stored procedures** (sin ORM), autenticación **JWT** con middleware de roles, y arquitectura modular (procedimiento almacenado → controlador → ruta).
-- 🇬🇧 Full university management system built solo. Backend in **Node.js + TypeScript + Express**, with **MySQL** and **stored procedures** (no ORM), **JWT** authentication with role-based middleware, and a modular architecture (stored procedure → controller → route).
+**Sistema Integral de Gestión Estudiantil y Trámites Universitarios**
+
+<a href="https://github.com/EduardoEscorza/sist_sigetu">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+SIGETU is a university management system developed independently, covering backend architecture, authentication, database design and application logic.
+
+### ⚙️ Architecture
+
+```text
+Frontend
+   │
+   ▼
+REST API
+   │
+   ▼
+Controllers
+   │
+   ▼
+Services / Business Logic
+   │
+   ▼
+MySQL Stored Procedures
+   │
+   ▼
+Database
+```
+
+### 🔐 Main Features
+
+* 🔑 JWT authentication
+* 👥 Role-based authorization
+* 🗄️ MySQL database
+* ⚙️ Stored Procedures
+* 🧩 Modular backend architecture
+* 🌐 REST API
+* 🔒 Password hashing with bcrypt
+* 📦 TypeScript
+* 🚀 Express.js
+
+### 🛠️ Backend Stack
+
+`Node.js` · `TypeScript` · `Express.js` · `MySQL` · `JWT` · `bcrypt`
 
 ---
 
-### 🛠️ Stack
+# 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,cs,cpp,html,css" />
+</p>
+
+### 🚀 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,bootstrap" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ☁️ Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode,postman" />
 </p>
 
 ---
 
-### 📌 Otros proyectos / Other projects
+# 📌 Other Projects
 
-- **Sistema SELLOUT** (Bridgestone) — sistema de gestión de ventas / sales management system.
-- **Control de Accesos** (Xcaret) — control de accesos para parques temáticos / access control for theme parks.
-- **Cross-Charges** (RLH Properties) — sistema de cargos entre propiedades / inter-property charge system.
-- **AWE** — plataforma de e-commerce / e-commerce platform.
+### 🏭 SELLOUT — Bridgestone
+
+Sales management system developed for internal business operations.
+
+**Technologies:** PHP · JavaScript · MySQL
 
 ---
 
-### 📊 Actividad
+### 🎢 Control de Accesos — Xcaret
+
+Access control system for theme park operations.
+
+**Focus:** Access management · Business logic · Database
+
+---
+
+### 🏨 Cross-Charges — RLH Properties
+
+System for managing charges between different properties.
+
+**Focus:** Backend · Database · Business processes
+
+---
+
+### 🛒 AWE
+
+E-commerce platform focused on online sales and management.
+
+**Focus:** Web development · E-commerce · Database
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoEscorza&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoEscorza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEscorza&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoEscorza&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=EduardoEscorza&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center"><i>México 🇲🇽</i></p>
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EduardoEscorza/EduardoEscorza/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+# 📈 Profile
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EduardoEscorza&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  🇲🇽 Mexico · 💻 Software Development · 🚀 Fullstack
+</p>
