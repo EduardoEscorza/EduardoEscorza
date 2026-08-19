@@ -25,7 +25,7 @@
 
 ---
 
-## 🇪🇸 Sobre mí
+## MX Sobre mí
 
 Soy **Desarrollador Fullstack** enfocado en construir aplicaciones web completas, desde el diseño de bases de datos y desarrollo de APIs hasta la creación de interfaces frontend.
 
